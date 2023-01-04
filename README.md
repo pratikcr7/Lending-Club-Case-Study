@@ -4,7 +4,7 @@
 
 ## Table of Contents
 * Problem Statement
-* python - data science toolkit(numpy, pandas, matplotlib,seaborn)
+* Technology used - python - data science toolkit(numpy, pandas, matplotlib,seaborn)
 * Conclusions
 
 
